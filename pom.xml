@@ -6,6 +6,11 @@
   <packaging>jar</packaging>
   <version>1.0.3-SNAPSHOT</version>
   <name>firstpom</name>
+  <scm>
+   <connection>scm:git:https://github.com/smruti-sahoo/releaseplugincheck.git</connection>
+   <url>https://github.com/smruti-sahoo/releaseplugincheck.git</url>
+   <developerConnection>scm:git:https://github.com/smruti-sahoo/releaseplugincheck.git</developerConnection>
+</scm>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
