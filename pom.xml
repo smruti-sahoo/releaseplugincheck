@@ -7,9 +7,9 @@
   <version>1.0.0-SNAPSHOT</version>
   <name>firstpom</name>
   <scm>
-   <connection>scm:git:https://github.com/smruti-sahoo/releaseplugincheck.git</connection>
-   <url>https://github.com/smruti-sahoo/releaseplugincheck.git</url>
-   <developerConnection>scm:git:https://github.com/smruti-sahoo/releaseplugincheck.git</developerConnection>
+   <connection>scm:git:git@github.com:smruti-sahoo/releaseplugincheck.git</connection>
+   <url>scm:git:git@github.com:smruti-sahoo/releaseplugincheck.git</url>
+   <developerConnection>scm:git:git@github.com:smruti-sahoo/releaseplugincheck.git</developerConnection>
 </scm>
   <url>http://maven.apache.org</url>
   <dependencies>
